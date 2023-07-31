@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/alojzy231/release-please-playground/compare/release-please-playground-v1.6.0...release-please-playground-v1.7.0) (2023-07-31)
+
+
+### Features
+
+* docs trigger 6 ([3eaa7bf](https://github.com/alojzy231/release-please-playground/commit/3eaa7bf610a10385c6908328fc36d2d83ce6826a))
+
 ## [1.6.0](https://github.com/alojzy231/release-please-playground/compare/release-please-playground-v1.5.0...release-please-playground-v1.6.0) (2023-07-31)
 
 
