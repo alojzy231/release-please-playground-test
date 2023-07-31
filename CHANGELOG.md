@@ -1,0 +1,11 @@
+# Changelog
+
+## 1.0.0 (2023-07-31)
+
+
+### Features
+
+* **create-turbo:** apply official-starter transform ([0598cd8](https://github.com/alojzy231/release-please-playground/commit/0598cd830a22761389adb3089f4e23644774ecb9))
+* **create-turbo:** create basic ([cfaca0a](https://github.com/alojzy231/release-please-playground/commit/cfaca0ad26282c074b34ed22a1558b6c0643a3cf))
+* **create-turbo:** install dependencies ([a5126fb](https://github.com/alojzy231/release-please-playground/commit/a5126fb929793bd852b18faab347a1b61e5a3f7d))
+* trigger [#1](https://github.com/alojzy231/release-please-playground/issues/1) docs ([bb355af](https://github.com/alojzy231/release-please-playground/commit/bb355afd93bf4d1c1c8dd48e95ac4499bebae472))
