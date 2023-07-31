@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.0](https://github.com/alojzy231/release-please-playground/compare/v1.4.0...v1.5.0) (2023-07-31)
+
+
+### Features
+
+* docs trigger 4 ([b3856b7](https://github.com/alojzy231/release-please-playground/commit/b3856b726ef2c020918d8e3f928381e4bee05555))
+* **docs:** docs trigger 5 ([7b4f572](https://github.com/alojzy231/release-please-playground/commit/7b4f572f81611cce0bb8588f51df8c90886acaf1))
+
 ## [1.4.0](https://github.com/alojzy231/release-please-playground/compare/v1.3.0...v1.4.0) (2023-07-31)
 
 
