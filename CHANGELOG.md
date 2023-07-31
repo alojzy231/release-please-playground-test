@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://github.com/alojzy231/release-please-playground/compare/v1.1.0...v1.2.0) (2023-07-31)
+
+
+### Features
+
+* web trigger [#2](https://github.com/alojzy231/release-please-playground/issues/2) ([ec22f12](https://github.com/alojzy231/release-please-playground/commit/ec22f122b043001692c329e0872f10f3453df4b5))
+
+
+### Bug Fixes
+
+* branch name in vercel.json ([ae93eda](https://github.com/alojzy231/release-please-playground/commit/ae93eda1617fa5ca54375e49b43b425c7a3d10bb))
+* trigger patch ([6be3012](https://github.com/alojzy231/release-please-playground/commit/6be301247c00679ce9d7942a149ead5b823d1f58))
+
 ## [1.1.0](https://github.com/alojzy231/release-please-playground/compare/v1.0.0...v1.1.0) (2023-07-31)
 
 
