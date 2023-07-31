@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/alojzy231/release-please-playground/compare/v1.2.0...v1.3.0) (2023-07-31)
+
+
+### Features
+
+* docs trigger [#2](https://github.com/alojzy231/release-please-playground/issues/2) ([713eba0](https://github.com/alojzy231/release-please-playground/commit/713eba0dd75b6f80433a0555d5955f86085bba90))
+
+
+### Bug Fixes
+
+* paths to apps ([6a1a3ae](https://github.com/alojzy231/release-please-playground/commit/6a1a3aea92a22c2808d10dd42fb64e9f9e738457))
+
 ## [1.2.0](https://github.com/alojzy231/release-please-playground/compare/v1.1.0...v1.2.0) (2023-07-31)
 
 
