@@ -1,11 +1,10 @@
 {
+  "bootstrap-sha": "eadc55f09ca0042cd4d1d4b13e74ddde3445b712",
   "release-type": "node",
   "plugins": ["node-workspace"],
   "packages": {
     "apps/docs": {},
     "apps/web": {},
-    "packages/ui": {
-      "bootstrap-sha": "eadc55f09ca0042cd4d1d4b13e74ddde3445b712"
-    }
+    "packages/ui": {}
   }
 }
