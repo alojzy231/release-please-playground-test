@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/alojzy231/release-please-playground/compare/release-please-playground-v1.7.0...release-please-playground-v1.8.0) (2023-07-31)
+
+
+### Features
+
+* **web:** trigger 3 ([966f2ab](https://github.com/alojzy231/release-please-playground/commit/966f2ab71df7a373306cfa23a95cdbb39945b91c))
+
 ## [1.7.0](https://github.com/alojzy231/release-please-playground/compare/release-please-playground-v1.6.0...release-please-playground-v1.7.0) (2023-07-31)
 
 
