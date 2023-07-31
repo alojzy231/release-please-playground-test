@@ -1,7 +1,13 @@
 {
   "release-type": "node",
   "packages": {
-    "apps/docs": {},
-    "apps/web": {}
+    "apps/docs": {
+      "package-name": "docs",
+      "changelog-path": "apps/docs/CHANGELOG.md"
+    },
+    "apps/web": {
+      "package-name": "web",
+      "changelog-path": "apps/web/CHANGELOG.md"
+    }
   }
 }
