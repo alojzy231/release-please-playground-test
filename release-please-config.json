@@ -1,6 +1,7 @@
 {
   "release-type": "node",
   "packages": {
-    ".": {}
+    "./apps/docs": {},
+    "./apps/web": {}
   }
 }
