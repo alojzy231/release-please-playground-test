@@ -2,7 +2,7 @@
   "git": {
     "deploymentEnabled": {
       "master": false,
-      "release-please--branches--master": false
+      "release-please--branches--master--components--release-please-playground": false
     }
   }
 }
