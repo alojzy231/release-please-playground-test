@@ -18,5 +18,6 @@
     "turbo": "latest"
   },
   "packageManager": "pnpm@8.6.10",
-  "name": "release-please-playground"
+  "name": "release-please-playground",
+  "version": "1.0.0"
 }
