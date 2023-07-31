@@ -5,6 +5,11 @@ export default function Page() {
     <>
       <Header text="Docs" />
       <Button />
+      <ol>
+        <li>
+          Trigger
+        </li>
+      </ol>
     </>
   );
 }
