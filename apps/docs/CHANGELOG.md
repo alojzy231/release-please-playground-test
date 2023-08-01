@@ -30,6 +30,12 @@
   * dependencies
     * ui bumped to 1.23.0
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * ui bumped to 1.24.0
+
 ## [1.23.0](https://github.com/alojzy231/release-please-playground/compare/docs-v1.22.1...docs-v1.23.0) (2023-08-01)
 
 
