@@ -1,5 +1,11 @@
 # Changelog
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * ui bumped to 1.9.0
+
 ## [1.9.0](https://github.com/alojzy231/release-please-playground/compare/web-v1.8.0...web-v1.9.0) (2023-08-01)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.0](https://github.com/alojzy231/release-please-playground/compare/ui-v1.8.0...ui-v1.9.0) (2023-08-01)
+
+
+### Features
+
+* trigger build in package ([a914a82](https://github.com/alojzy231/release-please-playground/commit/a914a822b309c1253ce47a298f89082ff822d2d1))
+
 ## [1.8.0](https://github.com/alojzy231/release-please-playground/compare/ui-v1.7.0...ui-v1.8.0) (2023-08-01)
 
 
