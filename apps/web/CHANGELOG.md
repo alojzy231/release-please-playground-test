@@ -18,6 +18,13 @@
   * dependencies
     * ui bumped to 1.11.0
 
+## [1.10.0](https://github.com/alojzy231/release-please-playground/compare/web-v1.9.3...web-v1.10.0) (2023-08-01)
+
+
+### Features
+
+* trigger web build ([464b4e1](https://github.com/alojzy231/release-please-playground/commit/464b4e15d2d7d924a4a49f300880e877142e355d))
+
 ## [1.9.0](https://github.com/alojzy231/release-please-playground/compare/web-v1.8.0...web-v1.9.0) (2023-08-01)
 
 
