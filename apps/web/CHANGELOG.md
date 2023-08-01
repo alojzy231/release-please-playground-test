@@ -18,6 +18,12 @@
   * dependencies
     * ui bumped to 1.11.0
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * ui bumped to 1.23.0
+
 ## [1.22.0](https://github.com/alojzy231/release-please-playground/compare/web-v1.21.0...web-v1.22.0) (2023-08-01)
 
 
