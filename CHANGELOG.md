@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.22.0](https://github.com/alojzy231/release-please-playground/compare/release-please-playground-v1.21.0...release-please-playground-v1.22.0) (2023-08-01)
+
+
+### Features
+
+* update readme ([a369e31](https://github.com/alojzy231/release-please-playground/commit/a369e312f4ee3db02bb58cd67dad8f954fe135e5))
+
 ## [1.21.0](https://github.com/alojzy231/release-please-playground/compare/release-please-playground-v1.20.0...release-please-playground-v1.21.0) (2023-08-01)
 
 
