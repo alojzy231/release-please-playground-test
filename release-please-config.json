@@ -2,6 +2,8 @@
   "bootstrap-sha": "eadc55f09ca0042cd4d1d4b13e74ddde3445b712",
   "release-type": "node",
   "plugins": ["node-workspace"],
+  "group-pull-request-title-pattern": "chore: release group spell",
+  "pull-request-title-pattern": "chore: release spell",
   "packages": {
     "apps/docs": {},
     "apps/web": {},
