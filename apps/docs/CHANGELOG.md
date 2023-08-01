@@ -24,6 +24,13 @@
   * dependencies
     * ui bumped to 1.12.0
 
+## [1.18.0](https://github.com/alojzy231/release-please-playground/compare/docs-v1.17.0...docs-v1.18.0) (2023-08-01)
+
+
+### Features
+
+* trigger docs ([21ea72d](https://github.com/alojzy231/release-please-playground/commit/21ea72d1731e5f4e2dbc83313ea2f73ab25218c8))
+
 ## [1.17.0](https://github.com/alojzy231/release-please-playground/compare/docs-v1.16.0...docs-v1.17.0) (2023-08-01)
 
 
