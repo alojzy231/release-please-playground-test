@@ -36,6 +36,14 @@
   * dependencies
     * ui bumped to 1.24.0
 
+## [1.25.0](https://github.com/alojzy231/release-please-playground/compare/docs-v1.24.0...docs-v1.25.0) (2023-08-01)
+
+
+### Features
+
+* docs ([658e524](https://github.com/alojzy231/release-please-playground/commit/658e5240a86a334de534d9e1d9c7f186153c61a7))
+* web ([54cf78a](https://github.com/alojzy231/release-please-playground/commit/54cf78ae58c8f5f0f96915dd65723a9bf39cbce7))
+
 ## [1.24.0](https://github.com/alojzy231/release-please-playground/compare/docs-v1.23.1...docs-v1.24.0) (2023-08-01)
 
 
