@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.24.0](https://github.com/alojzy231/release-please-playground/compare/release-please-playground-v1.23.0...release-please-playground-v1.24.0) (2023-08-01)
+
+
+### Features
+
+* package trigger ([93acba6](https://github.com/alojzy231/release-please-playground/commit/93acba6560c8fc44215983c8c9ae2805450b726e))
+
 ## [1.23.0](https://github.com/alojzy231/release-please-playground/compare/release-please-playground-v1.22.0...release-please-playground-v1.23.0) (2023-08-01)
 
 
