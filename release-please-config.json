@@ -2,6 +2,7 @@
   "bootstrap-sha": "eadc55f09ca0042cd4d1d4b13e74ddde3445b712",
   "release-type": "node",
   "plugins": ["node-workspace"],
+  "separate-pull-requests": true,
   "packages": {
     "apps/docs": {},
     "apps/web": {},
