@@ -12,6 +12,12 @@
   * dependencies
     * ui bumped to 1.10.0
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * ui bumped to 1.11.0
+
 ## [1.9.0](https://github.com/alojzy231/release-please-playground/compare/docs-v1.8.0...docs-v1.9.0) (2023-08-01)
 
 
