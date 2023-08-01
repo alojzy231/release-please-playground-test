@@ -24,6 +24,21 @@
   * dependencies
     * ui bumped to 1.12.0
 
+## [1.15.0](https://github.com/alojzy231/release-please-playground/compare/docs-v1.14.0...docs-v1.15.0) (2023-08-01)
+
+
+### Features
+
+* docs trigger build ([77c3ede](https://github.com/alojzy231/release-please-playground/commit/77c3edec92255cb961ca5f5fdefeeaeffb95a74f))
+* trigger release ([9619116](https://github.com/alojzy231/release-please-playground/commit/96191167d1fba8f69e2b277c9e20a096c1296b7a))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * ui bumped to 1.14.0
+
 ## [1.14.0](https://github.com/alojzy231/release-please-playground/compare/docs-v1.13.1...docs-v1.14.0) (2023-08-01)
 
 
