@@ -3,5 +3,5 @@
 import * as React from "react";
 
 export const Button = () => {
-  return <button onClick={() => alert("boop6")}>Boop</button>;
+  return <button onClick={() => alert("boop7")}>Boop</button>;
 };
