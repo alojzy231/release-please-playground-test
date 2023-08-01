@@ -54,6 +54,9 @@ export default function Page() {
         <li>
           Trigger
         </li>
+        <li>
+          Trigger
+        </li>
       </ol>
     </>
   );
