@@ -30,6 +30,16 @@
   * dependencies
     * ui bumped to 1.23.0
 
+## [1.23.0](https://github.com/alojzy231/release-please-playground/compare/docs-v1.22.1...docs-v1.23.0) (2023-08-01)
+
+
+### Features
+
+* docs ([60e0ea5](https://github.com/alojzy231/release-please-playground/commit/60e0ea5015cc403840641c58d5347d63d84f2a5d))
+* docs trigger build ([77c3ede](https://github.com/alojzy231/release-please-playground/commit/77c3edec92255cb961ca5f5fdefeeaeffb95a74f))
+* trigger docs ([21ea72d](https://github.com/alojzy231/release-please-playground/commit/21ea72d1731e5f4e2dbc83313ea2f73ab25218c8))
+* trigger release ([9619116](https://github.com/alojzy231/release-please-playground/commit/96191167d1fba8f69e2b277c9e20a096c1296b7a))
+
 ## [1.22.0](https://github.com/alojzy231/release-please-playground/compare/docs-v1.21.0...docs-v1.22.0) (2023-08-01)
 
 
