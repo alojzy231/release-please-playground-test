@@ -7,7 +7,6 @@
   "packages": {
     "apps/docs": {},
     "apps/web": {},
-    "packages/ui": {},
-    ".": {}
+    "packages/ui": {}
   }
 }
