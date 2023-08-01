@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.24.0](https://github.com/alojzy231/release-please-playground/compare/ui-v1.23.0...ui-v1.24.0) (2023-08-01)
+
+
+### Features
+
+* package update ([58490f9](https://github.com/alojzy231/release-please-playground/commit/58490f9c7443b78cf23fd853decd8cb2cac3fe7b))
+
 ## [1.23.0](https://github.com/alojzy231/release-please-playground/compare/ui-v1.22.0...ui-v1.23.0) (2023-08-01)
 
 
