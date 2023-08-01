@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.0](https://github.com/alojzy231/release-please-playground/compare/ui-v1.10.0...ui-v1.11.0) (2023-08-01)
+
+
+### Features
+
+* trigger build in package ([6bc72fa](https://github.com/alojzy231/release-please-playground/commit/6bc72facadcbf81a4cee29f10718fe39c5fafe34))
+
 ## [1.10.0](https://github.com/alojzy231/release-please-playground/compare/ui-v1.9.0...ui-v1.10.0) (2023-08-01)
 
 
