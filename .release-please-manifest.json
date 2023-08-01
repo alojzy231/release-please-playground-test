@@ -1,6 +1,6 @@
 {
-  "apps/web": "1.14.0",
-  "apps/docs": "1.13.1",
+  "apps/web": "1.15.0",
+  "apps/docs": "1.14.0",
   ".": "1.8.0",
-  "packages/ui": "1.12.0"
+  "packages/ui": "1.13.0"
 }
