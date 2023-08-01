@@ -19,3 +19,4 @@ jobs:
           package-name: release-please-action
           command: manifest
           monorepo-tags: true
+          token: ${{ secrets. PERSONAL_ACCESS_TOKEN }}
