@@ -4,7 +4,7 @@ on:
   push:
     # Pattern matched against refs/tags
     tags:
-      - 'web:*' # Push events to every tag not containing /
+      - 'web-v*' # Push events to every tag starting with web-v
 
 jobs:
   build:
