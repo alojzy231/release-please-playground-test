@@ -2,6 +2,7 @@
   "bootstrap-sha": "eadc55f09ca0042cd4d1d4b13e74ddde3445b712",
   "release-type": "node",
   "separate-pull-requests": true,
+  "monorepo-tags": true,
   "pull-request-title-pattern": "chore(${component}): release ${version}",
   "packages": {
     "apps/docs": {},
