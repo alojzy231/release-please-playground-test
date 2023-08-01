@@ -1,5 +1,30 @@
 # Changelog
 
+## [1.9.0](https://github.com/alojzy231/release-please-playground/compare/v1.8.0...v1.9.0) (2023-08-01)
+
+
+### Features
+
+* add manifest file ([32b04a6](https://github.com/alojzy231/release-please-playground/commit/32b04a6a555541c68e5ef36683de09ddd81890d0))
+* docs ([60e0ea5](https://github.com/alojzy231/release-please-playground/commit/60e0ea5015cc403840641c58d5347d63d84f2a5d))
+* package ([21272ff](https://github.com/alojzy231/release-please-playground/commit/21272ff38043fdbabd8dc040dc59d3d384f4c391))
+* package trigger ([93acba6](https://github.com/alojzy231/release-please-playground/commit/93acba6560c8fc44215983c8c9ae2805450b726e))
+* package update ([5b87377](https://github.com/alojzy231/release-please-playground/commit/5b87377c8cf2ddc02f703b544b8528ff47ab7a1b))
+* remove custom PR title ([923da23](https://github.com/alojzy231/release-please-playground/commit/923da23a791cf4dfff078ff6116bcbd6797fcafb))
+* trigger docs ([21ea72d](https://github.com/alojzy231/release-please-playground/commit/21ea72d1731e5f4e2dbc83313ea2f73ab25218c8))
+* trigger web release ([8b63969](https://github.com/alojzy231/release-please-playground/commit/8b63969b07fdcccc8658c1ac2f7173ce080c694d))
+* update package ([bc24c46](https://github.com/alojzy231/release-please-playground/commit/bc24c46aaa797e330486c07516b8954024922706))
+* update readme ([a369e31](https://github.com/alojzy231/release-please-playground/commit/a369e312f4ee3db02bb58cd67dad8f954fe135e5))
+* web ([f05606d](https://github.com/alojzy231/release-please-playground/commit/f05606d7ac2a832a8f4a22db8bfc2104117c326c))
+* web ([98c6a6b](https://github.com/alojzy231/release-please-playground/commit/98c6a6b6085402bd21440f1bc5e01b6c3a9b8a55))
+* web trigger ([7b04e5e](https://github.com/alojzy231/release-please-playground/commit/7b04e5e1406cb917e5f9fa8ad918ef3324612c52))
+
+
+### Bug Fixes
+
+* remove obsolete comments ([6bc60be](https://github.com/alojzy231/release-please-playground/commit/6bc60bedaac9a6166e7c76c3698dd29dc6d78d78))
+* trigger release in package ([49df10e](https://github.com/alojzy231/release-please-playground/commit/49df10ee502dfee0adccb82281cb8832347064ba))
+
 ## [1.24.0](https://github.com/alojzy231/release-please-playground/compare/release-please-playground-v1.23.0...release-please-playground-v1.24.0) (2023-08-01)
 
 
