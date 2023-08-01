@@ -3,6 +3,7 @@
   "release-type": "node",
   "plugins": ["node-workspace"],
   "separate-pull-requests": true,
+  "pull-request-title-pattern": "chore(${component}): release ${version}",
   "packages": {
     "apps/docs": {},
     "apps/web": {},
