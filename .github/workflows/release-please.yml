@@ -20,3 +20,5 @@ jobs:
           command: manifest
           monorepo-tags: true
           token: ${{ secrets. PERSONAL_ACCESS_TOKEN }}
+          pull-request-title-pattern: 'chore: magic'
+          group-pull-request-title-pattern: 'chore: group magic'
