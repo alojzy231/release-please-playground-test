@@ -6,8 +6,12 @@
   "monorepo-tags": true,
   "pull-request-title-pattern": "chore(${component}): release ${version}",
   "packages": {
-    "apps/docs": {},
+    "apps/docs": {
+      "exclude-paths": ["apps/web"]
+    },
     "apps/web": {},
-    "packages/ui": {}
+    "packages/ui": {
+      "exclude-paths": ["apps/web"]
+    }
   }
 }
