@@ -5,11 +5,14 @@ on:
     # Pattern matched against refs/tags
     tags:
       - 'web-v*' # Push events to every tag not containing / and starting with 'web-v'
-    branches:
-      - master
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - run: curl -X POST -d {} ${{ secrets.WEB_DEPLOY_HOOK }}
+      - name: Exit if not on master branch
+        if: endsWith(github.ref, 'master') == false
+        run: exit -1
+
+      - name: Deploy to production
+        run: curl -X POST -d {} ${{ secrets.WEB_DEPLOY_HOOK }}
