@@ -5,6 +5,8 @@ on:
     # Pattern matched against refs/tags
     tags:
       - 'docs-v*' # Push events to every tag not containing / and starting with 'docs-v'
+    branches:
+      - master
 
 jobs:
   build:
