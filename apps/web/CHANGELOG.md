@@ -18,6 +18,14 @@
   * dependencies
     * ui bumped to 1.11.0
 
+## [1.22.0](https://github.com/alojzy231/release-please-playground/compare/web-v1.21.0...web-v1.22.0) (2023-08-01)
+
+
+### Features
+
+* web ([f05606d](https://github.com/alojzy231/release-please-playground/commit/f05606d7ac2a832a8f4a22db8bfc2104117c326c))
+* web ([98c6a6b](https://github.com/alojzy231/release-please-playground/commit/98c6a6b6085402bd21440f1bc5e01b6c3a9b8a55))
+
 ## [1.21.0](https://github.com/alojzy231/release-please-playground/compare/web-v1.20.0...web-v1.21.0) (2023-08-01)
 
 
