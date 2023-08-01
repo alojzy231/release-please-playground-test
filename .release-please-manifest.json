@@ -2,5 +2,5 @@
   "apps/web": "1.21.0",
   "apps/docs": "1.21.0",
   ".": "1.23.0",
-  "packages/ui": "1.21.0"
+  "packages/ui": "1.22.0"
 }
